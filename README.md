@@ -1,7 +1,5 @@
 # ArgenBot: Bot para automatización de servidores
 
-![alt ArgenBot](https://raw.githubusercontent.com/lrusso/ArgenBot/master/ArgenBot.png)
-
 ## El bot realiza las siguientes tareas todos los días a las 7 de la mañana:
 
 - Búsqueda de marcas registradas y marcas con nombres similares.
